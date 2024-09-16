@@ -20,14 +20,7 @@ A documentação do projeto é estruturada da seguinte forma:
 6. Solução
 7. Referências Bibliográficas
 
-
-![Documentação de Design Thinking](files/processo-dt.pdf)
-
-<object data="files/processo-dt.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="files/processo-dt.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="files/processo-dt.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+✅ [Documentação de Design Thinking (MIRO)](files/processo-dt.pdf)
 
 # Contexto
 
@@ -235,11 +228,11 @@ Descrição para a tela XPTO
 
 **✳️✳️✳️ COLOQUE AQUI UM IFRAME COM SEU PROTÓTIPO INTERATIVO ✳️✳️✳️**
 
-<iframe title="Protótipo interativo" src="https://marvelapp.com/prototype/4hd6091?emb=1&iosapp=false&frameless=false" width="600px" height="360px" allowtransparency="true" frameborder="0"></iframe>
+✅ [Protótipo Interativo (MarvelApp)](https://marvelapp.com/prototype/4hd6091?emb=1&iosapp=false&frameless=false)  ⚠️ EXEMPLO ⚠️
 
 > ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
 >
-> Um protótipo interativo apresenta o projeto de interfaces e permite ao usuário navegar pelas funcionalidades como se estivesse lidando com o software pronto. Utilize as mesmas ferramentas de construção de wireframes para montagem do seu protótipo interativo.
+> Um protótipo interativo apresenta o projeto de interfaces e permite ao usuário navegar pelas funcionalidades como se estivesse lidando com o software pronto. Utilize as mesmas ferramentas de construção de wireframes para montagem do seu protótipo interativo. Inclua o link para o protótipo interativo do projeto.
 
 # Metodologia
 
@@ -295,7 +288,7 @@ O vídeo a seguir traz uma apresentação do problema que a equipe está tratand
 >
 > O video de apresentação é voltado para que o público externo possa conhecer a solução. O formato é livre, sendo importante que seja apresentado o problema e a solução numa linguagem descomplicada e direta.
 >
-> Utilize o recurso de compartilhamento via embed e inclua o vídeo aqui nessa seção.
+> Inclua um link para o vídeo do projeto.
 
 ## Funcionalidades
 
