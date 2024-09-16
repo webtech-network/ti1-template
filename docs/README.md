@@ -289,7 +289,7 @@ Esta seção apresenta todos os detalhes da solução criada no projeto.
 
 O vídeo a seguir traz uma apresentação do problema que a equipe está tratando e a proposta de solução. ⚠️ EXEMPLO ⚠️
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/70gGoFyGeqQ?si=RV3bH-2P1aZkzs3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Vídeo do projeto](images/video.png)](https://www.youtube.com/embed/70gGoFyGeqQ)
 
 > ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
 >
@@ -329,15 +329,15 @@ Descrição das estruturas de dados utilizadas na solução com exemplos no form
 Contatos da aplicação
 
 ```json
-                  {
-                    "id": 1,
-                    "nome": "Leanne Graham",
-                    "cidade": "Belo Horizonte",
-                    "categoria": "amigos",
-                    "email": "Sincere@april.biz",
-                    "telefone": "1-770-736-8031",
-                    "website": "hildegard.org"
-                  }
+  {
+    "id": 1,
+    "nome": "Leanne Graham",
+    "cidade": "Belo Horizonte",
+    "categoria": "amigos",
+    "email": "Sincere@april.biz",
+    "telefone": "1-770-736-8031",
+    "website": "hildegard.org"
+  }
   
 ```
 
@@ -346,14 +346,14 @@ Contatos da aplicação
 Registro dos usuários do sistema utilizados para login e para o perfil do sistema
 
 ```json
-                  {
-                    id: "eed55b91-45be-4f2c-81bc-7686135503f9"
-                    email: "admin@abc.com"
-                    id: "eed55b91-45be-4f2c-81bc-7686135503f9"
-                    login: "admin"
-                    nome: "Administrador do Sistema"
-                    senha: "123"
-                  }
+  {
+    id: "eed55b91-45be-4f2c-81bc-7686135503f9",
+    email: "admin@abc.com",
+    id: "eed55b91-45be-4f2c-81bc-7686135503f9",
+    login: "admin",
+    nome: "Administrador do Sistema",
+    senha: "123"
+  }
 ```
 
 > ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
