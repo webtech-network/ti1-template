@@ -224,6 +224,7 @@ Relação de ferramentas empregadas pelo grupo durante o projeto.
 Divisão de papéis no grupo e apresentação da estrutura da ferramenta de controle de tarefas (Kanban).
 
 | ID      | Backlog/Requisitos                                        | Membro |
+|-------- | --------------------------------------------------------- |------- |
 | 1 | Histórias de Usuários | Davi Santana Pinheiro Andrade |
 | 2 | Histórias de Usuários | Maria Eduarda Botelho |
 | 3 | Mapa Proposta de Valor | João Vitor Miranda |
