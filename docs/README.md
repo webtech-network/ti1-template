@@ -90,9 +90,19 @@ Objetivos específicos: deixar as páginas intuitivas e responsivas para melhor 
 
 **✳️✳️✳️ APRESENTE OS DIAGRAMAS DE PERSONAS ✳️✳️✳️**
 
-> * **Highlights de pesquisa**: um compilado do levantamento realizado por meio das entrevistas.
-> ![Persona 1 - José Carlos](images/persona-1.png, images/persona1.png)
-> 
+> * **Persona 1**: José Carlos
+> [Persona 1 - José Carlos](images/persona-1.png)
+> [Persona 1 - José Carlos](images/persona1.png)
+
+> * **Persona 2**: Duda
+> [Persona 2 - Duda](images/persona-2.png)
+> [Persona 2 - Duda](images/persona2.png)
+
+> * **Persona 3**: Beatriz
+> [Persona 3 - Beatriz](images/persona-3.png)
+> [Persona 3 - Beatriz](images/persona3.png)
+
+
 
 # Product Design
 
