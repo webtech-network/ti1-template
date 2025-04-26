@@ -139,17 +139,29 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 | ID     | Descrição do Requisito                                   | Prioridade |
 | ------ | ---------------------------------------------------------- | ---------- |
-| RF-001 | Permitir que o usuário cadastre tarefas ⚠️ EXEMPLO ⚠️ | ALTA       |
-| RF-002 | Emitir um relatório de tarefas no mês ⚠️ EXEMPLO ⚠️ | MÉDIA     |
+| RF-001 | O sistema terá um cadastro e login de usuários | ALTA       |
+| RF-002 | O sistema terá uma opção para o cancelamento de reserva | ALTA     |
+| RF-003 | O Sistema irá disponibilizar um cardápio Digital | MÉDIA     |
+| RF-004 | O sistema informará o horário de funcionamento do restaurante | BAIXA     |
+| RF-005 | O sistema irá detalhar a disponibilidade das mesas | MÉDIA     |
+| RF-006 | O sistema contará com uma tipo de reserva ‘especial’ para uma maior quantidade de pessoas | MÉDIA     |
+| RF-007 | O cliente deve receber confirmação da reserva por e-mail e/ou SMS. | ALTA     |
+| RF-008 | O sistema terá uma opção de elogios ou comentários sobre o restaurante e o app  | BAIXA     |
+| RF-009 | O cliente deve poder recuperar a senha via e-mail. | ALTA     |
+| RF-010 | O cliente deve poder selecionar a data e hora da reserva. | ALTA     |
 
 ### Requisitos não Funcionais
 
 | ID      | Descrição do Requisito                                                              | Prioridade |
 | ------- | ------------------------------------------------------------------------------------- | ---------- |
-| RNF-001 | O sistema deve ser responsivo para rodar em um dispositivos móvel ⚠️ EXEMPLO ⚠️ | MÉDIA     |
-| RNF-002 | Deve processar requisições do usuário em no máximo 3s ⚠️ EXEMPLO ⚠️          | BAIXA      |
+| RNF-001 | O sistema deve conter segurança para meios de pagamento online | ALTA     |
+| RNF-002 | O sistema deve estar disponível 24 horas por dia, 7 dias por semana          | MÉDIA      |
 
->
+### Restrições
+| ID      | Descrição do Requisito                                                              | 
+| ----- | ------------------------------------------------------------------------------------- | 
+| R-001 | O Sistema deve conter as tecnologias do aprendidas no curso |
+| R-002 | O sistema deve ter uma política de privacidade clara e transparente, informando como os dados dos usuários serão coletados, utilizados e protegidos  |      
 
 ## Projeto de Interface
 
@@ -213,9 +225,10 @@ Relação de ferramentas empregadas pelo grupo durante o projeto.
 
 | Ambiente                    | Plataforma | Link de acesso                                     |
 | --------------------------- | ---------- | -------------------------------------------------- |
-| Processo de Design Thinking | Miro       | https://miro.com/app/board/uXjVISOwuoM=/       |
-| Repositório de código     | GitHub     | https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m-20232-dona-cocina-restaurante/tree/master      |
-| Protótipo Interativo       | Figma  | https://marvelapp.com/XXXXXXX ⚠️ EXEMPLO ⚠️   |
+| Processo de Design Thinking | Miro       | https://miro.com/XXXXXXX ⚠️ EXEMPLO ⚠️        |
+| Repositório de código     | GitHub     | https://github.com/XXXXXXX ⚠️ EXEMPLO ⚠️      |
+| Hospedagem do site          | Render     | https://site.render.com/XXXXXXX ⚠️ EXEMPLO ⚠️ |
+| Protótipo Interativo       | MarvelApp  | https://www.figma.com/pt-br/  |
 |                             |            |                                                    |
 
 > ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
@@ -248,6 +261,19 @@ Divisão de papéis no grupo e apresentação da estrutura da ferramenta de cont
 # Solução Implementada
 
 Esta seção apresenta todos os detalhes da solução criada no projeto.
+
+> Diante do aumento significativo nas filas e da sobrecarga nas reservas realizadas por telefone, identificamos a necessidade de modernizar o 
+> processo de atendimento do restaurante. A proposta é o desenvolvimento de um site personalizado com foco em reservas online e exibição de 
+> cardápio digital.
+
+> O sistema permitirá que os clientes realizem suas reservas de forma prática e rápida, escolhendo a data, horário e número de pessoas, com 
+> confirmação imediata por e-mail ou SMS. Isso eliminará o tempo de espera ao telefone e reduzirá erros de agendamento. Além disso, o site contará 
+> com um cardápio digital interativo, acessível tanto via desktop quanto dispositivos móveis, permitindo aos clientes visualizar os pratos com 
+> imagens, descrições e preços antes mesmo da visita.
+
+> A solução também inclui um painel administrativo para que o restaurante possa gerenciar facilmente as reservas, horários disponíveis e atualizar 
+> o cardápio sempre que necessário. Com isso, espera-se não apenas a melhoria na experiência do cliente, mas também a otimização do atendimento e 
+> o aumento na eficiência da operação interna.
 
 ## Vídeo do Projeto
 
