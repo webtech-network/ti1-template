@@ -160,31 +160,29 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 | ID     | Descrição do Requisito                                   | Prioridade |
 | ------ | ---------------------------------------------------------- | ---------- |
-| RF-001 | Permitir que o usuário cadastre tarefas ⚠️ EXEMPLO ⚠️ | ALTA       |
-| RF-002 | Emitir um relatório de tarefas no mês ⚠️ EXEMPLO ⚠️ | MÉDIA     |
+| RF-001 | O sistema terá um cadastro e login de usuários | ALTA       |
+| RF-002 | O sistema terá uma opção para o cancelamento de reserva | ALTA     |
+| RF-003 | O Sistema irá disponibilizar um cardápio Digital | MÉDIA     |
+| RF-004 | O sistema informará o horário de funcionamento do restaurante | BAIXA     |
+| RF-005 | O sistema irá detalhar a disponibilidade das mesas | MÉDIA     |
+| RF-006 | O sistema contará com uma tipo de reserva ‘especial’ para uma maior quantidade de pessoas | MÉDIA     |
+| RF-007 | O cliente deve receber confirmação da reserva por e-mail e/ou SMS. | ALTA     |
+| RF-008 | O sistema terá uma opção de elogios ou comentários sobre o restaurante e o app  | BAIXA     |
+| RF-009 | O cliente deve poder recuperar a senha via e-mail. | ALTA     |
+| RF-010 | O cliente deve poder selecionar a data e hora da reserva. | ALTA     |
 
 ### Requisitos não Funcionais
 
 | ID      | Descrição do Requisito                                                              | Prioridade |
 | ------- | ------------------------------------------------------------------------------------- | ---------- |
-| RNF-001 | O sistema deve ser responsivo para rodar em um dispositivos móvel ⚠️ EXEMPLO ⚠️ | MÉDIA     |
-| RNF-002 | Deve processar requisições do usuário em no máximo 3s ⚠️ EXEMPLO ⚠️          | BAIXA      |
+| RNF-001 | O sistema deve conter segurança para meios de pagamento online | ALTA     |
+| RNF-002 | O sistema deve estar disponível 24 horas por dia, 7 dias por semana          | MÉDIA      |
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Os requisitos de um projeto são classificados em dois grupos:
->
-> - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na plataforma (ex: cadastro de usuário).
-> - [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade, desempenho, confiabilidade, segurança ou outro (ex: suporte a dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma característica alvo da sua solução. Além disso, certifique-se de que todos os aspectos capturados nas Histórias de Usuário foram cobertos.
->
-> **Orientações**:
->
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+### Restrições
+| ID      | Descrição do Requisito                                                              | 
+| ------- | ------------------------------------------------------------------------------------- | 
+| R-001 | O Sistema deve conter as tecnologias do aprendidas no curso |
+| R-002 | O sistema deve ter uma política de privacidade clara e transparente, informando como os dados dos usuários serão coletados, utilizados e protegidos  |      
 
 ## Projeto de Interface
 
