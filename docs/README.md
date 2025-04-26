@@ -84,14 +84,21 @@ Objetivos específicos: deixar as páginas intuitivas e responsivas para melhor 
 
 **✳️✳️✳️ APRESENTE OS ARTEFATOS DA ETAPA  ✳️✳️✳️**
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Nessa etapa, vamos trabalhar com a metdologia de Design Thinking para compreender com maior profundidade o problema a ser tratado. Nesse processo, vamos elaborar:
->
 > * **Matriz CSD**: também conhecida por Matriz de Alinhamento, é uma ferramenta utilizada no Design Thinking para organizar informações e facilitar o processo de tomada de decisão e solução de problemas;
+
+[Matriz CSD](images/matriz-csd.png)
+
 > * **Mapa de stakeholders**: ferramenta que nos permite compreender o grupo de pessoas e entidades que devemos estudar e conversar para entender mais sobre o problema
+
+[Matriz CSD](images/stakeholders.png)
+
 > * **Entrevistas qualitativas**: série de entrevistas qualitativas para validar suposições e solucionar as dúvidas com as principais pessoas envolvidas;
+
+[Matriz CSD](images/entrevistas.png)
+
 > * **Highlights de pesquisa**: um compilado do levantamento realizado por meio das entrevistas.
+
+[Matriz CSD](images/highlights.png)
 
 ## Etapa de Definição
 
@@ -118,11 +125,16 @@ Nesse momento, vamos transformar os insights e validações obtidos em soluçõe
 
 Com base na análise das personas foram identificadas as seguintes histórias de usuários:
 
-| EU COMO...`PERSONA` | QUERO/PRECISO ...`FUNCIONALIDADE`        | PARA ...`MOTIVO/VALOR`               |
-| --------------------- | ------------------------------------------ | -------------------------------------- |
-| Usuário do sistema   | Registrar minhas tarefas ⚠️ EXEMPLO ⚠️ | Não esquecer de fazê-las             |
+| EU COMO...`PERSONA` | QUERO/PRECISO ...`FUNCIONALIDADE`                  | PARA ...`MOTIVO/VALOR`               |
+| --------------------- | -----------------------------------------------  | -------------------------------------- |
+| Usuário do sistema   | Saber os horários e dias disponíveis para reservas | ter uma agenda mais organizada com local e horário para um melhor e mais formal atendimento aos clientes.                                                                               |
 | Administrador         | Alterar permissões ⚠️ EXEMPLO ⚠️      | Permitir que possam administrar contas |
 
+Eu como: Usuário
+
+Quero: Saber os horários e dias disponíveis para reservas
+
+Porque/para: 
 > ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
 >
 > Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
