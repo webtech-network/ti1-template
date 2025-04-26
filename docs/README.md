@@ -2,13 +2,16 @@
 
 Informações básicas do projeto.
 
-* **Projeto:** [NOME DO PROJETO]
-* **Repositório GitHub:** [LINK PARA O REPOSITÓRIO NO GITHUB]
+* **Projeto:** Dona Cocina
+* **Repositório GitHub:** [Dona Cocina](https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m-20232-dona-cocina-restaurante.git)
 * **Membros da equipe:**
 
-  * [Fulano](https://github.com/fulano) ⚠️ EXEMPLO ⚠️
-  * [Beltrano](https://github.com/beltrano) ⚠️ EXEMPLO ⚠️
-  * [Cicrano](https://github.com/cicrano) ⚠️ EXEMPLO ⚠️
+  * [Davi Santana](https://github.com/davisantana07) ✳️
+  * [Maria Eduarda](https://github.com/maria-botelho) ✳️
+  * [João Miranda](https://github.com/JoaoMiranda1921) ✳️
+  * [Hamilton Henrique](https://github.com/Hhg11) ✳️
+  * [Octavio Vieira](https://github.com/tavinzm) ✳️
+  * [Breno de Oliveira](https://github.com/bhass3l) ✳️
 
 A documentação do projeto é estruturada da seguinte forma:
 
@@ -29,10 +32,8 @@ Detalhes sobre o espaço de problema, os objetivos do projeto, sua justificativa
 ## Problema
 
 **✳️✳️✳️ COLOQUE AQUI O SEU TEXTO ✳️✳️✳️**
-
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
 >
-> Nesse momento você deve apresentar o problema que a sua aplicação deve resolver. No entanto, não é a hora de comentar sobre a aplicação. Descreva também o contexto em que essa aplicação será usada, se houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de fato existir, pois ainda não é a hora de apresentar requisitos detalhados ou projetos.
+> O problema escolhido por nós para ser sanado por essa aplicação web é que, com bastante frequência, as pessoas não conseguem ou tem dificuldade em obter informações do horários de funcionamento do restaurante, o seu cardápio e a disponibilidade de mesas para ser feito a sua reserva, de uma maneira rápida e eficiente, o que pode resultar em frustração e desistência por parte dos mesmos, ocasionando a perda de uma oportunidade de renda e potenciais clientes. Com o avanço da internet e seu uso cada vez mais presente no dia a dia, os restaurantes vêm enfrentando esse desafio de organizar essas funcionalidades de forma integrada a web e de proporcionar uma experiência fluida e com o mínimo de erros possíveis. Utilizando esta aplicação, esse problema seria facilmente solucionado pela mesma, agregando valor a vida dos clientes e os administradores dos restaurantes.
 >
 > **Orientações**:
 >
@@ -44,9 +45,10 @@ Detalhes sobre o espaço de problema, os objetivos do projeto, sua justificativa
 
 **✳️✳️✳️ COLOQUE AQUI O SEU TEXTO ✳️✳️✳️**
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
 >
-> Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+> Atender o público-alvo que busca realizar suas reservas no restaurante de forma prática e intuitiva, garantindo uma experiência agradável e transparente. Fazendo assim, com que  o usuário se mantenha informado do que é fornecido no site, não apenas mostrando o produto oferecido, mas sim sobre as informações gerais contidas no mesmo.
+
+Objetivos específicos: deixar as páginas intuitivas e responsivas para melhor proveito e navegação no site, criar uma aba para realizar login/ cadastro no site, e também, uma seção para dúvidas frequentes ou informações para contato com o restaurante.
 >
 > **Orientações**:
 >
@@ -56,11 +58,8 @@ Detalhes sobre o espaço de problema, os objetivos do projeto, sua justificativa
 
 **✳️✳️✳️ COLOQUE AQUI O SEU TEXTO ✳️✳️✳️**
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
->
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+>A oferta de reservas online por meio de um programa web é interessante pois evita a exclusão de clientes que não podem e também os que não gostam de reservar por telefone, como aqueles com problemas de audição ou pessoas que tentam reservar fora do horário de funcionamento, abrangendo o atendimento a diversos tipos de cliente. Reservas online tornaram-se populares devido à sua conveniência, aumentando a probabilidade de atrair mais clientes através deste método.Por meio dele, os clientes podem controlar o processo de reserva, escolhendo data, hora, tamanho do grupo e até a área do restaurante, de acordo com a sua necessidade. Além desses já descritos, há vários outros benefícios de implementá-lo em seu negócio, assim como é apresentado numa matéria escrita pela Tablein.
+> 
 >
 > **Orientações**:
 >
@@ -70,11 +69,9 @@ Detalhes sobre o espaço de problema, os objetivos do projeto, sua justificativa
 
 **✳️✳️✳️ COLOQUE AQUI O SEU TEXTO ✳️✳️✳️**
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
 >
-> Descreva quais são as pessoas que usarão a sua aplicação indicando os diferentes perfis. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição textual, ou diagramas de personas, mapa de stakeholders, ou como o grupo achar mais conveniente.
+> O público alvo do restaurante são indivíduos que sentem falta da comida caseira e de um ambiente acolhedor propicio para dar uma pausa na correria do dia-a-dia. Visamos o conforto, o acolhimento e a troca de experiência, visto que possuímos um público variado, com idades distintas - desde os mais jovens, que estão no início da vida adulta a idosos, que buscam relembrar o aconchego de suas origens por intermédio do paladar.  Em maioria, as reservas do nosso restaurante são compostas por advogados e empreendedores, que trazem seus clientes e futuros clientes para fins de negociação. Existem também as reservas para aniversários e semelhantes, realizadas principalmente pelo público mais jovem. Aos finais de semana boa parte da nossas reservas são feitas por anfitriões da família, que trazem suas gerações para contemplar o espaço e a comida boa. A localização do restaurante é em Belo Horizonte, na área centro-sul, entretanto nosso público vem majoritariamente da região metropolitana, como Nova Lima, Lagoa Santa, Pedro Leopoldo, entre outros. Também temos os turistas que buscam experimentar nossos pratos e se deliciar com nossas sobremesas.Aguardamos nossos clientes com um ambiente amplo, bem estruturado e organizado, propicio para atender nossa freguesia com simpatia e profissionalismo, com um atendimento único e especializado.
+
 >
 > **Orientações**:
 >
