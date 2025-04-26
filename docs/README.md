@@ -180,7 +180,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Restrições
 | ID      | Descrição do Requisito                                                              | 
-| ------- | ------------------------------------------------------------------------------------- | 
+| ----- | ------------------------------------------------------------------------------------- | 
 | R-001 | O Sistema deve conter as tecnologias do aprendidas no curso |
 | R-002 | O sistema deve ter uma política de privacidade clara e transparente, informando como os dados dos usuários serão coletados, utilizados e protegidos  |      
 
@@ -250,7 +250,7 @@ Relação de ferramentas empregadas pelo grupo durante o projeto.
 | Processo de Design Thinking | Miro       | https://miro.com/XXXXXXX ⚠️ EXEMPLO ⚠️        |
 | Repositório de código     | GitHub     | https://github.com/XXXXXXX ⚠️ EXEMPLO ⚠️      |
 | Hospedagem do site          | Render     | https://site.render.com/XXXXXXX ⚠️ EXEMPLO ⚠️ |
-| Protótipo Interativo       | MarvelApp  | https://marvelapp.com/XXXXXXX ⚠️ EXEMPLO ⚠️   |
+| Protótipo Interativo       | MarvelApp  | https://www.figma.com/pt-br/  |
 |                             |            |                                                    |
 
 > ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
