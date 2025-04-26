@@ -72,14 +72,7 @@ Detalhes sobre o espaço de problema, os objetivos do projeto, sua justificativa
 
 > ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
 >
-> Descreva quais são as pessoas que usarão a sua aplicação indicando os diferentes perfis. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição textual, ou diagramas de personas, mapa de stakeholders, ou como o grupo achar mais conveniente.
->
-> **Orientações**:
->
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+> O público alvo do restaurante são indivíduos que sentem falta da comida caseira e de um ambiente acolhedor propicio para dar uma pausa na correria do dia-a-dia. Visamos o conforto, o acolhimento e a troca de experiência, visto que possuímos um público variado, com idades distintas - desde os mais jovens, que estão no início da vida adulta a idosos, que buscam relembrar o aconchego de suas origens por intermédio do paladar.  Em maioria, as reservas do nosso restaurante são compostas por advogados e empreendedores, que trazem seus clientes e futuros clientes para fins de negociação. Existem também as reservas para aniversários e semelhantes, realizadas principalmente pelo público mais jovem. Aos finais de semana boa parte da nossas reservas são feitas por anfitriões da família, que trazem suas gerações para contemplar o espaço e a comida boa. A localização do restaurante é em Belo Horizonte, na área centro-sul, entretanto nosso público vem majoritariamente da região metropolitana, como Nova Lima, Lagoa Santa, Pedro Leopoldo, entre outros. Também temos os turistas que buscam experimentar nossos pratos e se deliciar com nossas sobremesas. Aguardamos nossos clientes com um ambiente amplo, bem estruturado e organizado, propicio para atender nossa freguesia com simpatia e profissionalismo, com um atendimento único e especializado.
 
 # Product Discovery
 
@@ -87,14 +80,21 @@ Detalhes sobre o espaço de problema, os objetivos do projeto, sua justificativa
 
 **✳️✳️✳️ APRESENTE OS ARTEFATOS DA ETAPA  ✳️✳️✳️**
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Nessa etapa, vamos trabalhar com a metdologia de Design Thinking para compreender com maior profundidade o problema a ser tratado. Nesse processo, vamos elaborar:
->
 > * **Matriz CSD**: também conhecida por Matriz de Alinhamento, é uma ferramenta utilizada no Design Thinking para organizar informações e facilitar o processo de tomada de decisão e solução de problemas;
+
+[Matriz CSD](images/matriz-csd.png)
+
 > * **Mapa de stakeholders**: ferramenta que nos permite compreender o grupo de pessoas e entidades que devemos estudar e conversar para entender mais sobre o problema
+
+[Matriz CSD](images/stakeholders.png)
+
 > * **Entrevistas qualitativas**: série de entrevistas qualitativas para validar suposições e solucionar as dúvidas com as principais pessoas envolvidas;
+
+[Matriz CSD](images/entrevistas.png)
+
 > * **Highlights de pesquisa**: um compilado do levantamento realizado por meio das entrevistas.
+
+[Matriz CSD](images/highlights.png)
 
 ## Etapa de Definição
 
@@ -121,11 +121,16 @@ Nesse momento, vamos transformar os insights e validações obtidos em soluçõe
 
 Com base na análise das personas foram identificadas as seguintes histórias de usuários:
 
-| EU COMO...`PERSONA` | QUERO/PRECISO ...`FUNCIONALIDADE`        | PARA ...`MOTIVO/VALOR`               |
-| --------------------- | ------------------------------------------ | -------------------------------------- |
-| Usuário do sistema   | Registrar minhas tarefas ⚠️ EXEMPLO ⚠️ | Não esquecer de fazê-las             |
+| EU COMO...`PERSONA` | QUERO/PRECISO ...`FUNCIONALIDADE`                  | PARA ...`MOTIVO/VALOR`               |
+| --------------------- | -----------------------------------------------  | -------------------------------------- |
+| Usuário do sistema   | Saber os horários e dias disponíveis para reservas | ter uma agenda mais organizada com local e horário para um melhor e mais formal atendimento aos clientes.                                                                               |
 | Administrador         | Alterar permissões ⚠️ EXEMPLO ⚠️      | Permitir que possam administrar contas |
 
+Eu como: Usuário
+
+Quero: Saber os horários e dias disponíveis para reservas
+
+Porque/para: 
 > ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
 >
 > Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
