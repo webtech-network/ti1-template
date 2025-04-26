@@ -281,6 +281,19 @@ Divisão de papéis no grupo e apresentação da estrutura da ferramenta de cont
 
 Esta seção apresenta todos os detalhes da solução criada no projeto.
 
+> Diante do aumento significativo nas filas e da sobrecarga nas reservas realizadas por telefone, identificamos a necessidade de modernizar o 
+> processo de atendimento do restaurante. A proposta é o desenvolvimento de um site personalizado com foco em reservas online e exibição de 
+> cardápio digital.
+
+> O sistema permitirá que os clientes realizem suas reservas de forma prática e rápida, escolhendo a data, horário e número de pessoas, com 
+> confirmação imediata por e-mail ou SMS. Isso eliminará o tempo de espera ao telefone e reduzirá erros de agendamento. Além disso, o site contará 
+> com um cardápio digital interativo, acessível tanto via desktop quanto dispositivos móveis, permitindo aos clientes visualizar os pratos com 
+> imagens, descrições e preços antes mesmo da visita.
+
+> A solução também inclui um painel administrativo para que o restaurante possa gerenciar facilmente as reservas, horários disponíveis e atualizar 
+> o cardápio sempre que necessário. Com isso, espera-se não apenas a melhoria na experiência do cliente, mas também a otimização do atendimento e 
+> o aumento na eficiência da operação interna.
+
 ## Vídeo do Projeto
 
 O vídeo a seguir traz uma apresentação do problema que a equipe está tratando e a proposta de solução. ⚠️ EXEMPLO ⚠️
