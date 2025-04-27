@@ -199,7 +199,7 @@ Artefatos relacionados com a interface e a interacão do usuário na proposta de
 
 **✳️✳️✳️ COLOQUE AQUI UM IFRAME COM SEU PROTÓTIPO INTERATIVO ✳️✳️✳️**
 
-✅ [Protótipo Interativo (MarvelApp)](https://www.figma.com/proto/HUxS3M9GX4wZSlfI766ZXu/ProjetoFilme?node-id=42-9&p=f&t=YV17xhKGwQ8E6d8Z-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=42%3A9)
+✅ [Protótipo Interativo ](https://www.figma.com/proto/HUxS3M9GX4wZSlfI766ZXu/ProjetoFilme?node-id=42-9&p=f&t=YV17xhKGwQ8E6d8Z-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=42%3A9)
 
 # Metodologia
 
