@@ -2,13 +2,16 @@
 
 Informações básicas do projeto.
 
-* **Projeto:** [NOME DO PROJETO]
-* **Repositório GitHub:** [LINK PARA O REPOSITÓRIO NO GITHUB]
+* **Projeto:** Dona Cocina
+* **Repositório GitHub:** [Dona Cocina](https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m-20232-dona-cocina-restaurante.git)
 * **Membros da equipe:**
 
-  * [Fulano](https://github.com/fulano) ⚠️ EXEMPLO ⚠️
-  * [Beltrano](https://github.com/beltrano) ⚠️ EXEMPLO ⚠️
-  * [Cicrano](https://github.com/cicrano) ⚠️ EXEMPLO ⚠️
+  * [Davi Santana](https://github.com/davisantana07) ✳️
+  * [Maria Eduarda](https://github.com/maria-botelho) ✳️
+  * [João Miranda](https://github.com/JoaoMiranda1921) ✳️
+  * [Hamilton Henrique](https://github.com/Hhg11) ✳️
+  * [Octavio Vieira](https://github.com/tavinzm) ✳️
+  * [Breno de Oliveira](https://github.com/bhass3l) ✳️
 
 A documentação do projeto é estruturada da seguinte forma:
 
@@ -29,57 +32,35 @@ Detalhes sobre o espaço de problema, os objetivos do projeto, sua justificativa
 ## Problema
 
 **✳️✳️✳️ COLOQUE AQUI O SEU TEXTO ✳️✳️✳️**
+>
+> O problema escolhido por nós para ser sanado por essa aplicação web é que, com bastante frequência, as pessoas não conseguem ou tem dificuldade em obter informações do horários de funcionamento do restaurante, o seu cardápio e a disponibilidade de mesas para ser feito a sua reserva, de uma maneira rápida e eficiente, o que pode resultar em frustração e desistência por parte dos mesmos, ocasionando a perda de uma oportunidade de renda e potenciais clientes. Com o avanço da internet e seu uso cada vez mais presente no dia a dia, os restaurantes vêm enfrentando esse desafio de organizar essas funcionalidades de forma integrada a web e de proporcionar uma experiência fluida e com o mínimo de erros possíveis. Utilizando esta aplicação, esse problema seria facilmente solucionado pela mesma, agregando valor a vida dos clientes e os administradores dos restaurantes.
+>
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Nesse momento você deve apresentar o problema que a sua aplicação deve resolver. No entanto, não é a hora de comentar sobre a aplicação. Descreva também o contexto em que essa aplicação será usada, se houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de fato existir, pois ainda não é a hora de apresentar requisitos detalhados ou projetos.
->
-> **Orientações**:
->
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
 
 **✳️✳️✳️ COLOQUE AQUI O SEU TEXTO ✳️✳️✳️**
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
 >
-> Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+> Atender o público-alvo que busca realizar suas reservas no restaurante de forma prática e intuitiva, garantindo uma experiência agradável e transparente. Fazendo assim, com que  o usuário se mantenha informado do que é fornecido no site, não apenas mostrando o produto oferecido, mas sim sobre as informações gerais contidas no mesmo.
+
+Objetivos específicos: deixar as páginas intuitivas e responsivas para melhor proveito e navegação no site, criar uma aba para realizar login/ cadastro no site, e também, uma seção para dúvidas frequentes ou informações para contato com o restaurante.
 >
-> **Orientações**:
 >
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
 **✳️✳️✳️ COLOQUE AQUI O SEU TEXTO ✳️✳️✳️**
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
->
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Orientações**:
->
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+>A oferta de reservas online por meio de um programa web é interessante pois evita a exclusão de clientes que não podem e também os que não gostam de reservar por telefone, como aqueles com problemas de audição ou pessoas que tentam reservar fora do horário de funcionamento, abrangendo o atendimento a diversos tipos de cliente. Reservas online tornaram-se populares devido à sua conveniência, aumentando a probabilidade de atrair mais clientes através deste método.Por meio dele, os clientes podem controlar o processo de reserva, escolhendo data, hora, tamanho do grupo e até a área do restaurante, de acordo com a sua necessidade. Além desses já descritos, há vários outros benefícios de implementá-lo em seu negócio, assim como é apresentado numa matéria escrita pela Tablein.
+> 
 
 ## Público-Alvo
 
 **✳️✳️✳️ COLOQUE AQUI O SEU TEXTO ✳️✳️✳️**
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
 >
-> Descreva quais são as pessoas que usarão a sua aplicação indicando os diferentes perfis. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição textual, ou diagramas de personas, mapa de stakeholders, ou como o grupo achar mais conveniente.
->
-> **Orientações**:
->
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+> O público alvo do restaurante são indivíduos que sentem falta da comida caseira e de um ambiente acolhedor propicio para dar uma pausa na correria do dia-a-dia. Visamos o conforto, o acolhimento e a troca de experiência, visto que possuímos um público variado, com idades distintas - desde os mais jovens, que estão no início da vida adulta a idosos, que buscam relembrar o aconchego de suas origens por intermédio do paladar.  Em maioria, as reservas do nosso restaurante são compostas por advogados e empreendedores, que trazem seus clientes e futuros clientes para fins de negociação. Existem também as reservas para aniversários e semelhantes, realizadas principalmente pelo público mais jovem. Aos finais de semana boa parte da nossas reservas são feitas por anfitriões da família, que trazem suas gerações para contemplar o espaço e a comida boa. A localização do restaurante é em Belo Horizonte, na área centro-sul, entretanto nosso público vem majoritariamente da região metropolitana, como Nova Lima, Lagoa Santa, Pedro Leopoldo, entre outros. Também temos os turistas que buscam experimentar nossos pratos e se deliciar com nossas sobremesas.Aguardamos nossos clientes com um ambiente amplo, bem estruturado e organizado, propicio para atender nossa freguesia com simpatia e profissionalismo, com um atendimento único e especializado.
 
 # Product Discovery
 
@@ -87,14 +68,21 @@ Detalhes sobre o espaço de problema, os objetivos do projeto, sua justificativa
 
 **✳️✳️✳️ APRESENTE OS ARTEFATOS DA ETAPA  ✳️✳️✳️**
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Nessa etapa, vamos trabalhar com a metdologia de Design Thinking para compreender com maior profundidade o problema a ser tratado. Nesse processo, vamos elaborar:
->
 > * **Matriz CSD**: também conhecida por Matriz de Alinhamento, é uma ferramenta utilizada no Design Thinking para organizar informações e facilitar o processo de tomada de decisão e solução de problemas;
+
+[![Matriz CSD](images/matriz-csd.png)]
+
 > * **Mapa de stakeholders**: ferramenta que nos permite compreender o grupo de pessoas e entidades que devemos estudar e conversar para entender mais sobre o problema
+
+[![Matriz Stakeholders](images/stakeholders.png)]
+
 > * **Entrevistas qualitativas**: série de entrevistas qualitativas para validar suposições e solucionar as dúvidas com as principais pessoas envolvidas;
+
+[![Entrevistas qualitativas](images/entrevistas.png)]
+
 > * **Highlights de pesquisa**: um compilado do levantamento realizado por meio das entrevistas.
+
+[![Highlights de pesquisa](images/highlights.png)]
 
 ## Etapa de Definição
 
@@ -102,16 +90,19 @@ Detalhes sobre o espaço de problema, os objetivos do projeto, sua justificativa
 
 **✳️✳️✳️ APRESENTE OS DIAGRAMAS DE PERSONAS ✳️✳️✳️**
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que você deve ser enumerar e descrever precisamente e de forma personalizada todos os principais envolvidos com a solução almeja.
->
-> **Orientações**:
->
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Criar personas (Hotmart)](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
+> * **Persona 1**: José Carlos
+> ![Persona 1 - José Carlos](images/persona-1.png)
+> ![Persona 1 - José Carlos](images/persona1.png)
+
+> * **Persona 2**: Duda
+> ![Persona 2 - Duda](images/persona-2.png)
+> ![Persona 2 - Duda](images/persona2.png)
+
+> * **Persona 3**: Beatriz
+> ![Persona 3 - Beatriz](images/persona-3.png)
+> ![Persona 3 - Beatriz](images/persona3.png)
+
+
 
 # Product Design
 
@@ -121,19 +112,12 @@ Nesse momento, vamos transformar os insights e validações obtidos em soluçõe
 
 Com base na análise das personas foram identificadas as seguintes histórias de usuários:
 
-| EU COMO...`PERSONA` | QUERO/PRECISO ...`FUNCIONALIDADE`        | PARA ...`MOTIVO/VALOR`               |
-| --------------------- | ------------------------------------------ | -------------------------------------- |
-| Usuário do sistema   | Registrar minhas tarefas ⚠️ EXEMPLO ⚠️ | Não esquecer de fazê-las             |
-| Administrador         | Alterar permissões ⚠️ EXEMPLO ⚠️      | Permitir que possam administrar contas |
-
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
+| EU COMO...`PERSONA` | QUERO/PRECISO ...`FUNCIONALIDADE`                  | PARA ...`MOTIVO/VALOR`               |
+| --------------------- | -----------------------------------------------  | -------------------------------------- |
+| Usuário do sistema   | Saber os horários e dias disponíveis para reservas | ter uma agenda mais organizada com local e horário para um melhor e mais formal atendimento aos clientes.                                                                               |
+| Usuário do sistema          | acessar um site de reservas prático e intuitivo para agendar meus compromissos      | preciso cumprir com os compromissos de reuniões da minha marca, fora que na produção de conteúdo é importante ter a agenda organizada pois cada minuto conta, por isso reservar minha mesa com antecedência é muito importante. |
+| Usuário do sistema          | Reservar minhas mesas e ter acesso ao cardápio   | me programar para ter uma viagem bem planejada e ter acesso ao cardápio é essencial pois minha alimentação é restrita. |
 >
-> Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
->
-> **Orientações**:
->
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
 
 ## Proposta de Valor
 
@@ -155,31 +139,29 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 | ID     | Descrição do Requisito                                   | Prioridade |
 | ------ | ---------------------------------------------------------- | ---------- |
-| RF-001 | Permitir que o usuário cadastre tarefas ⚠️ EXEMPLO ⚠️ | ALTA       |
-| RF-002 | Emitir um relatório de tarefas no mês ⚠️ EXEMPLO ⚠️ | MÉDIA     |
+| RF-001 | O sistema terá um cadastro e login de usuários | ALTA       |
+| RF-002 | O sistema terá uma opção para o cancelamento de reserva | ALTA     |
+| RF-003 | O Sistema irá disponibilizar um cardápio Digital | MÉDIA     |
+| RF-004 | O sistema informará o horário de funcionamento do restaurante | BAIXA     |
+| RF-005 | O sistema irá detalhar a disponibilidade das mesas | MÉDIA     |
+| RF-006 | O sistema contará com uma tipo de reserva ‘especial’ para uma maior quantidade de pessoas | MÉDIA     |
+| RF-007 | O cliente deve receber confirmação da reserva por e-mail e/ou SMS. | ALTA     |
+| RF-008 | O sistema terá uma opção de elogios ou comentários sobre o restaurante e o app  | BAIXA     |
+| RF-009 | O cliente deve poder recuperar a senha via e-mail. | ALTA     |
+| RF-010 | O cliente deve poder selecionar a data e hora da reserva. | ALTA     |
 
 ### Requisitos não Funcionais
 
 | ID      | Descrição do Requisito                                                              | Prioridade |
 | ------- | ------------------------------------------------------------------------------------- | ---------- |
-| RNF-001 | O sistema deve ser responsivo para rodar em um dispositivos móvel ⚠️ EXEMPLO ⚠️ | MÉDIA     |
-| RNF-002 | Deve processar requisições do usuário em no máximo 3s ⚠️ EXEMPLO ⚠️          | BAIXA      |
+| RNF-001 | O sistema deve conter segurança para meios de pagamento online | ALTA     |
+| RNF-002 | O sistema deve estar disponível 24 horas por dia, 7 dias por semana          | MÉDIA      |
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Os requisitos de um projeto são classificados em dois grupos:
->
-> - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na plataforma (ex: cadastro de usuário).
-> - [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade, desempenho, confiabilidade, segurança ou outro (ex: suporte a dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma característica alvo da sua solução. Além disso, certifique-se de que todos os aspectos capturados nas Histórias de Usuário foram cobertos.
->
-> **Orientações**:
->
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+### Restrições
+| ID      | Descrição do Requisito                                                              | 
+| ----- | ------------------------------------------------------------------------------------- | 
+| R-001 | O Sistema deve conter as tecnologias do aprendidas no curso |
+| R-002 | O sistema deve ter uma política de privacidade clara e transparente, informando como os dados dos usuários serão coletados, utilizados e protegidos  |      
 
 ## Projeto de Interface
 
@@ -187,52 +169,37 @@ Artefatos relacionados com a interface e a interacão do usuário na proposta de
 
 ### Wireframes
 
-Estes são os protótipos de telas do sistema.
+# Wireframe da tela principal
 
-**✳️✳️✳️ COLOQUE AQUI OS PROTÓTIPOS DE TELAS COM TÍTULO E DESCRIÇÃO ✳️✳️✳️**
+![Home-Page](images/wireframe-home-page.jpg)
 
-##### TELA XPTO ⚠️ EXEMPLO ⚠️
+# Wireframe da tela sobre nós
 
-Descrição para a tela XPTO
+![Home-Page](images/wireframe-sobre-nos.jpg)
 
-![Exemplo de wireframe](images/exemplo-wireframe.png)
+# Wireframe da tela cardápio
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante ao layout de elementos fundamentais na interface.
->
-> **Orientações**:
->
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
+![Home-Page](images/wireframe-cardapio.jpg)
+
+# Wireframe da tela sac
+
+![Home-Page](images/wireframe-sac.jpg)
+
+# Wireframe da tela dúvidas
+
+![Home-Page](images/wireframe-duvidas.jpg)
 
 ### User Flow
 
 **✳️✳️✳️ COLOQUE AQUI O DIAGRAMA DE FLUXO DE TELAS ✳️✳️✳️**
 
-![Exemplo de fluxo de telas](images/exemplo-userflow.png)
-
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
->
-> **Orientações**:
->
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools &amp; Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
+![Exemplo de fluxo de telas](images/UserFlow.jpg)
 
 ### Protótipo Interativo
 
 **✳️✳️✳️ COLOQUE AQUI UM IFRAME COM SEU PROTÓTIPO INTERATIVO ✳️✳️✳️**
 
-✅ [Protótipo Interativo (MarvelApp)](https://marvelapp.com/prototype/4hd6091?emb=1&iosapp=false&frameless=false)  ⚠️ EXEMPLO ⚠️
-
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Um protótipo interativo apresenta o projeto de interfaces e permite ao usuário navegar pelas funcionalidades como se estivesse lidando com o software pronto. Utilize as mesmas ferramentas de construção de wireframes para montagem do seu protótipo interativo. Inclua o link para o protótipo interativo do projeto.
+✅ [Protótipo Interativo ](https://www.figma.com/proto/HUxS3M9GX4wZSlfI766ZXu/ProjetoFilme?node-id=42-9&p=f&t=YV17xhKGwQ8E6d8Z-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=42%3A9)
 
 # Metodologia
 
@@ -246,37 +213,47 @@ Relação de ferramentas empregadas pelo grupo durante o projeto.
 | --------------------------- | ---------- | -------------------------------------------------- |
 | Processo de Design Thinking | Miro       | https://miro.com/XXXXXXX ⚠️ EXEMPLO ⚠️        |
 | Repositório de código     | GitHub     | https://github.com/XXXXXXX ⚠️ EXEMPLO ⚠️      |
-| Hospedagem do site          | Render     | https://site.render.com/XXXXXXX ⚠️ EXEMPLO ⚠️ |
-| Protótipo Interativo       | MarvelApp  | https://marvelapp.com/XXXXXXX ⚠️ EXEMPLO ⚠️   |
+| Protótipo Interativo       | Figma  | https://www.figma.com/pt-br/  |
 |                             |            |                                                    |
-
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Liste as ferramentas empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível. Inclua itens como: (1) Editor de código, (2) )ferramentas de comunicação, (3) )ferramentas de diagramação, (4) )plataformas de hospedagem, entre outras.
-
 ## Gerenciamento do Projeto
 
 Divisão de papéis no grupo e apresentação da estrutura da ferramenta de controle de tarefas (Kanban).
 
-![Exemplo de Kanban](images/exemplo-kanban.png)
+| ID      | Backlog/Requisitos                                        | Membro |
+|-------- | --------------------------------------------------------- |------- |
+| 1 | Histórias de Usuários | Davi Santana Pinheiro Andrade |
+| 2 | Histórias de Usuários | Maria Eduarda Botelho |
+| 3 | Mapa Proposta de Valor | João Vitor Miranda |
+| 4 | Mapa Proposta de Valor | Octávio Vieira de Oliveira |
+| 5 | Requisitos do Software | Breno de Oliveira Hassel |
+| 6 | Requisitos do Software | Hamilton Henrique Gomes |
+| 7 | Documentação do projeto: Introdução | Breno de Oliveira Hassel |
+| 8 | Documentação do projeto: Problema | Octávio Vieira de Oliveira |
+| 9 | Documentação do projeto: Objetivo do projeto | Davi Santana Pinheiro Andrade |
+| 10 | Documentação do projeto: Justificativa | Hamilton Henrique Gomes |
+| 11 | Documentação do projeto: Público-alvo | Maria Eduarda Botelho |
+| 12 | Especificação do Projeto: História de usuário | Davi Santana Pinheiro Andrade |
+| 13 | Especificação do Projeto: História de usuário | Maria Eduarda Botelho |
+| 14 | Projeto de Interfaces: (Fluxo do usuário, Wireframes das telas, Protótipo Interativo [LINK]) | João Vitor Miranda |
+| 15 | Metodologia | Maria Eduarda Botelho |
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Nesta parte do documento, você deve apresentar  o processo de trabalho baseado nas metodologias ágeis, a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a gestão de configuração do projeto via GitHub.
->
-> Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
->
-> **Orientações**:
->
-> - [Sobre Projects - GitHub Docs](https://docs.github.com/pt/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)
-> - [Gestão de projetos com GitHub | balta.io](https://balta.io/blog/gestao-de-projetos-com-github)
-> - [(460) GitHub Projects - YouTube](https://www.youtube.com/playlist?list=PLiO7XHcmTsldZR93nkTFmmWbCEVF_8F5H)
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
 
 # Solução Implementada
 
 Esta seção apresenta todos os detalhes da solução criada no projeto.
+
+> Diante do aumento significativo nas filas e da sobrecarga nas reservas realizadas por telefone, identificamos a necessidade de modernizar o 
+> processo de atendimento do restaurante. A proposta é o desenvolvimento de um site personalizado com foco em reservas online e exibição de 
+> cardápio digital.
+
+> O sistema permitirá que os clientes realizem suas reservas de forma prática e rápida, escolhendo a data, horário e número de pessoas, com 
+> confirmação imediata por e-mail ou SMS. Isso eliminará o tempo de espera ao telefone e reduzirá erros de agendamento. Além disso, o site contará 
+> com um cardápio digital interativo, acessível tanto via desktop quanto dispositivos móveis, permitindo aos clientes visualizar os pratos com 
+> imagens, descrições e preços antes mesmo da visita.
+
+> A solução também inclui um painel administrativo para que o restaurante possa gerenciar facilmente as reservas, horários disponíveis e atualizar 
+> o cardápio sempre que necessário. Com isso, espera-se não apenas a melhoria na experiência do cliente, mas também a otimização do atendimento e 
+> o aumento na eficiência da operação interna.
 
 ## Vídeo do Projeto
 
